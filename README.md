@@ -1,2 +1,3 @@
 # hello-world
-First repository
+**My First Repository**
+*This project is soley for learning github and git*
